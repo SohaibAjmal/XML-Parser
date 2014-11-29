@@ -1,0 +1,14 @@
+C:\Users\Sohaib\AppData\Local\Temporary Projects\XMLParser\bin\Debug\XMLParser.exe
+C:\Users\Sohaib\AppData\Local\Temporary Projects\XMLParser\bin\Debug\XMLParser.pdb
+C:\Users\Sohaib\AppData\Local\Temporary Projects\XMLParser\obj\x86\Debug\XMLParser.exe
+C:\Users\Sohaib\AppData\Local\Temporary Projects\XMLParser\obj\x86\Debug\XMLParser.pdb
+D:\C# Projects\XMLParser\XMLParser\obj\x86\Debug\XMLParser.exe
+D:\C# Projects\XMLParser\XMLParser\obj\x86\Debug\XMLParser.pdb
+D:\C# Projects\XMLParser\XMLParser\bin\Debug\XMLParser.exe
+D:\C# Projects\XMLParser\XMLParser\bin\Debug\XMLParser.pdb
+D:\C# Projects\XMLParser\XMLParser\obj\x86\Debug\XMLParser.csprojResolveAssemblyReference.cache
+D:\GIT Repo\XMLParser\XMLParser\obj\x86\Debug\XMLParser.exe
+D:\GIT Repo\XMLParser\XMLParser\obj\x86\Debug\XMLParser.pdb
+D:\GIT Repo\XMLParser\XMLParser\bin\Debug\XMLParser.exe
+D:\GIT Repo\XMLParser\XMLParser\bin\Debug\XMLParser.pdb
+D:\GIT Repo\XMLParser\XMLParser\obj\x86\Debug\XMLParser.csprojResolveAssemblyReference.cache

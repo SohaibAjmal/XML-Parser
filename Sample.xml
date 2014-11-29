@@ -1,0 +1,25 @@
+<?xml version = 1.0.0>
+<College name = "University of Rochester"  division="First" greeklife = "yes" city = "Rochester"  address = "Wilson Boulevard" checking = "True" thisDucks = "Yes">
+	<Department name = "Computer Science" year="1992" dean = "John Doe">
+		<Professor  name = "Will Smith" designation = "Professor" field = "Compiler" >
+			<Course name = "Parallel and Distributed Computing" id = "301" >
+			</Course>
+			<Course name = "Compiler Design" id = "102" >
+			</Course>			
+		</Professor>
+		<Professor  name = "Matt Damon"  	 designation = "Assistant Professor" field = "Operating System" >
+			<Course name = "Intro to OS" id = "201" >
+			</Course>
+			<Course name = "System Design" id = "101" />
+		</Professor>
+	</Department>	
+	<Department name = "Political Science" dean = "Mitt Romney">
+		<Professor  name = "Rick Perry" designation = "Professor" field = "International Relations" >
+			<Course name = "Introduction to International Relations" id = "123" >
+			</Course>
+		</Professor>
+		<Professor  name = "Dan Brown"  	 designation = "Professor" field = "Political Economy" >
+			<Course name = "Intro to Political Economy" id = "422" />
+		</Professor>
+	</Department>
+</College>
